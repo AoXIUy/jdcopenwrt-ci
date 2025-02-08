@@ -1,4 +1,4 @@
-name: IPQ60XX-24.10(NOWIFI)
+name: ipq60xx-immortalwrt
 
 on:
   workflow_dispatch:
