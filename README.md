@@ -11,6 +11,7 @@
 - 源码：[LiBwrt](https://github.com/LiBwrt-op/openwrt-6.x)
 - 源码：[immortalwrt](https://github.com/immortalwrt/immortalwrt)
 - 云编译来源：https://github.com/haiibo/OpenWrt
+              https://github.com/VIKINGYFY/immortalwrt
 
 ## 固件下载 [![](https://img.shields.io/badge/-编译状态及下载链接-FFFFFF.svg)](#固件下载-)
 点击下表中 [![](https://img.shields.io/badge/下载-链接-blueviolet.svg?style=flat&logo=hack-the-box)](https://github.com/haiibo/OpenWrt/releases) 即可跳转到该设备固件下载页面
